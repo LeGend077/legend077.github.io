@@ -52,5 +52,13 @@ Do you ever feel that there is no recipe for saddle? Or for elytra or Totem of U
 
 Donwload it --> [Here](https://mcpedl.com/more-recipes-add-on/)
 
+### Half a Heart Hardcore Add-On
+
+Do you love adventures and hardcore mode? There are many hardcore mode Add-Ons but It comes with half health of the player. HALF A HEART HARDCORE by LeGend077. You need to play very safe! I'm giving you a challenge to beat Ender Dragon with this Add-On. Let's move to details.
+
+It is different from other add-ons as the player health is 0.5 with the hardcore mode as a bonus with least files used as possible.
+
+Download it --> [Here](https://mcpedl.com/half-a-heart-hardcore-add-on/)
+
 > **In Progress: More Structures Add-On**
 
