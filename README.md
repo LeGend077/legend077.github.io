@@ -5,7 +5,9 @@
 I'm a professional JSON UI and Minecraft Bedrock Developer with more than two years of experience in scripting, json ui, entities, items etc., also Learning Game and App Development in Godot! ~My Art is Shit!~ 
 
 Youtube: [@legendx077](hhtps://youtube.com/@legendx077)
+
 Find All Packs: [On Github](https://github.com/LeGend077/packs/)
+
 MCPEDL: [legend0778825](https://mcpedl.com/user/legend0778825)
 
 ### Creations
@@ -68,6 +70,7 @@ My UI Pack! Though it is deprecated!
 #### More Recipes
 
 Probably my first pack!
+
 [https://mcpedl.com/more-recipes-add-on/](https://mcpedl.com/more-recipes-add-on/)
 
 ![image](https://github.com/LeGend077/legend077.github.io/assets/98607285/02b2f62d-eaaf-44d3-bf9d-aab87456e7db)
