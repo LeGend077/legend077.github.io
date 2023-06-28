@@ -1,5 +1,3 @@
-## LeGend's Portfolio
-
 ### About
 
 I'm a professional JSON UI and Minecraft Bedrock Developer with more than two years of experience in scripting, json ui, entities, items etc., also Learning Game and App Development in Godot! ~My Art is Shit!~ 
