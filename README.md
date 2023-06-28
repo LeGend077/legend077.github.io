@@ -4,7 +4,7 @@
 
 I'm a professional JSON UI and Minecraft Bedrock Developer with more than two years of experience in scripting, json ui, entities, items etc., also Learning Game and App Development in Godot! ~My Art is Shit!~ 
 
-Youtube: [@legendx077](hhtps://youtube.com/@legendx077)
+Youtube: [@legendx077](https://youtube.com/@legendx077)
 
 Find All Packs: [On Github](https://github.com/LeGend077/packs/)
 
