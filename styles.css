@@ -1,0 +1,22 @@
+body{
+  background-color: #171717;
+  padding: 4px;
+  font-family: Tahoma;
+  color: white;
+}
+
+h1 {
+  color: #65a8fc;
+}
+
+h2 {
+  color: #308cff;
+}
+
+.list-text {
+  font-size: 14px;
+}
+
+a {
+  color: red;
+}
